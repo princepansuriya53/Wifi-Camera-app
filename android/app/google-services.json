@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37775440190",
+    "project_id": "livcri-wifihd",
+    "storage_bucket": "livcri-wifihd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37775440190:android:a3b2283936bde4d07c946f",
+        "android_client_info": {
+          "package_name": "com.wifihd.camera.wificamera.cctv.wificctvcamera.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GlAN9bbMWktYJIWjqQodCUM_kCAJP1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
